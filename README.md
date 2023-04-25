@@ -15,3 +15,4 @@
 | PIN 6         | Clock                   |
 | PIN 7         | 5 VDC                   |  
 | PIN 8         | Floating output         |
+##PIN 6 (Yellow - clock), PIN 5 (Blue - display data), PIN 3 (Pink - button data)
