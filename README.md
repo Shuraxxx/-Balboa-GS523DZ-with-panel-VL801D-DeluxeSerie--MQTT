@@ -16,3 +16,5 @@
 | PIN 7         | 5 VDC                   |  
 | PIN 8         | Floating output         |
 ##PIN 6 (Yellow - clock), PIN 5 (Blue - display data), PIN 3 (Pink - button data)
+<img src="https://github.com/Shuraxxx/-Balboa-GS523SZ-with-panel-VL801D-DeluxeSerie-/blob/main/src/img/DATA-1.jpg" width="450"> 
+<img src="https://github.com/Shuraxxx/-Balboa-GS523SZ-with-panel-VL801D-DeluxeSerie-/blob/main/src/img/DATA-2.jpg" width="450"> 
