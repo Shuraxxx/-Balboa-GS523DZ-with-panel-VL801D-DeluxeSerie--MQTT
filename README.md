@@ -32,7 +32,7 @@
 - 
 #### Display Data
 
-Display shows **37.5C** - How does that translates into the bitstream? The first 4 chunks is coded in BCD to 7 segment LCD (see reference) but only with 7 bits sinse the LSB always is (0). <br />
+Display shows **29.5C** - How does that translates into the bitstream? The first 4 chunks is coded in BCD to 7 segment LCD (see reference) but only with 7 bits sinse the LSB always is (0). <br />
 2 = 1101101(0) = (Chunk 1) <br />
 9 = 1110011(0) = (Chunk 2) <br />
 5 = 1011011(0) = (Chunk 3) <br />
@@ -40,11 +40,11 @@ C = 1001110(0) = (Chunk 4) <br />
 
 | Chunk 4 - bit(0-7) | Chunk 3 - bit(7-14) | Chunk 2 - bit(14-21) | Chunk 4 - bit(21-28) | Chunk 5 - bit(29-71) | 
 | ------------------ | ------------------- | ------------------   | -------------------- | -------------------- |                     
-| LCD segment 1      |  LCD segment 2      |   LCD Segment 3      |   LCD segment 4      | 28 - Button down/up  |                    
-|                    |                     |                      |                      | 29 - ?               |       
-|                    |                     |                      |                      | 30 - ?               | 
-|                    |                     |                      |                      | 31 - Standard mode   | 
-|                    |                     |                      |                      | 32 - ?               |  
-|                    |                     |                      |                      | 33 - ?               |   
-|                    |                     |                      |                      | 34 - ?               | 
+| LCD segment 1      |  LCD segment 2      |   LCD Segment 3      |   LCD segment 4      | 29 - Button down/up  |                    
+|                    |                     |                      |                      |                      |       
+|                    |                     |                      |                      |                      | 
+|                    |                     |                      |                      | 59 - Standard mode   | 
+|                    |                     |                      |                      |                      |  
+|                    |                     |                      |                      |                      |   
+|                    |                     |                      |                      |                      | 
    
