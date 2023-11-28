@@ -47,4 +47,19 @@ C = 1001110(0) = (Chunk 4) <br />
 |                    |                     |                      |                      |                      |  
 |                    |                     |                      |                      |                      |   
 |                    |                     |                      |                      |                      | 
-   
+<img src="https://github.com/MagnusPer/Balboa-GS510SZ/blob/main/extras/docs/Balboa_GS_Interface.jpg" width="1000">
+## PCB fabrication
+
+<img src="(https://github.com/Shuraxxx/-Balboa-GS523SZ-with-panel-VL801D-DeluxeSerie-/blob/main/extras/PCB%20layout/PCB_3D_view.jpg" width="303"> <img src="(https://github.com/Shuraxxx/-Balboa-GS523SZ-with-panel-VL801D-DeluxeSerie-/blob/main/extras/PCB%20layout/PCB_2D_view.jpg)" width="400">
+
+Gerber files located here: [PCB Balboa-GS510SZ](https://github.com/Shuraxxx/-Balboa-GS523SZ-with-panel-VL801D-DeluxeSerie-/tree/main/extras/PCB%20layout )
+
+## References of great help!
+- https://github.com/NickB1/OpenSpa/blob/master/documents/Balboa/Balboa_Display_Measurements.pdf
+- https://www.olivierhill.ca/archives/72-The-Internet-of-Spas.html
+- https://create.arduino.cc/projecthub/meljr/7-segment-led-displays-102-using-a-shift-register-6b6976
+
+## Other Balboa projects 
+- GL2000 Series https://github.com/netmindz/balboa_GL_ML_spa_control
+- BP Series https://github.com/ccutrer/balboa_worldwide_app
+- https://github.com/MagnusPer/Balboa-GS510SZ/
