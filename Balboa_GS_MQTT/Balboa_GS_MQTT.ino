@@ -194,7 +194,8 @@ void loop() {
 	Balboa.loop();
   client.loop();
   server.handleClient();
-  
+  ElegantOTA.loop();
+	
   if (WiFi.status() != WL_CONNECTED){ setup_wifi(); }             // Check WiFi connnection reconnect otherwise 
   if (!client.connected()) { reconnect(); }                       // Check MQTT connnection reconnect otherwise 
 
